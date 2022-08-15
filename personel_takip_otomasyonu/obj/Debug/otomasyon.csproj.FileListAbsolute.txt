@@ -1,0 +1,12 @@
+D:\c#\otomasyon\bin\Debug\otomasyon.exe.config
+D:\c#\otomasyon\bin\Debug\otomasyon.exe
+D:\c#\otomasyon\bin\Debug\otomasyon.pdb
+D:\c#\otomasyon\obj\Debug\otomasyon.csproj.AssemblyReference.cache
+D:\c#\otomasyon\obj\Debug\otomasyon.Form1.resources
+D:\c#\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+D:\c#\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.cache
+D:\c#\otomasyon\obj\Debug\otomasyon.csproj.CoreCompileInputs.cache
+D:\c#\otomasyon\obj\Debug\otomasyon.exe
+D:\c#\otomasyon\obj\Debug\otomasyon.pdb
+D:\c#\otomasyon\obj\Debug\otomasyon.Form2.resources
+D:\c#\otomasyon\obj\Debug\otomasyon.Form3.resources
